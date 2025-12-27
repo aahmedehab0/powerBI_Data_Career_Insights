@@ -10,7 +10,6 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 ### Dashboard File
 You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](data_jobs_dashboard.pbix).
 
-**Download Link:** [Data Files (136.3MB)](https://drive.google.com/file/d/1xiNSeNRKiuTrCDmJbDo3ukom47HaBeQj/view?usp=drive_link)
 
 ### Setup Instructions:
 1. Download the data from the link above

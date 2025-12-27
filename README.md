@@ -1,6 +1,6 @@
 # Data Jobs Analytics w/ Power BI 📊
 
-![GitHub repo size](https://img.shields.io/badge/repo%20size-5MB-blue)
+![GitHub repo size](https://img.shields.io/badge/repo%20size-131MB-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/status-complete-success)
 
